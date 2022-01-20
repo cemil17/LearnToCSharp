@@ -1,0 +1,14 @@
+C:\Users\Cemil KAĞAN\source\repos\LearnToCSharp\LearnToCSharp\bin\Debug\netcoreapp3.1\LearnToCSharp.exe
+C:\Users\Cemil KAĞAN\source\repos\LearnToCSharp\LearnToCSharp\bin\Debug\netcoreapp3.1\LearnToCSharp.deps.json
+C:\Users\Cemil KAĞAN\source\repos\LearnToCSharp\LearnToCSharp\bin\Debug\netcoreapp3.1\LearnToCSharp.runtimeconfig.json
+C:\Users\Cemil KAĞAN\source\repos\LearnToCSharp\LearnToCSharp\bin\Debug\netcoreapp3.1\LearnToCSharp.runtimeconfig.dev.json
+C:\Users\Cemil KAĞAN\source\repos\LearnToCSharp\LearnToCSharp\bin\Debug\netcoreapp3.1\LearnToCSharp.dll
+C:\Users\Cemil KAĞAN\source\repos\LearnToCSharp\LearnToCSharp\bin\Debug\netcoreapp3.1\LearnToCSharp.pdb
+C:\Users\Cemil KAĞAN\source\repos\LearnToCSharp\LearnToCSharp\obj\Debug\netcoreapp3.1\LearnToCSharp.csproj.AssemblyReference.cache
+C:\Users\Cemil KAĞAN\source\repos\LearnToCSharp\LearnToCSharp\obj\Debug\netcoreapp3.1\LearnToCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cemil KAĞAN\source\repos\LearnToCSharp\LearnToCSharp\obj\Debug\netcoreapp3.1\LearnToCSharp.AssemblyInfoInputs.cache
+C:\Users\Cemil KAĞAN\source\repos\LearnToCSharp\LearnToCSharp\obj\Debug\netcoreapp3.1\LearnToCSharp.AssemblyInfo.cs
+C:\Users\Cemil KAĞAN\source\repos\LearnToCSharp\LearnToCSharp\obj\Debug\netcoreapp3.1\LearnToCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Cemil KAĞAN\source\repos\LearnToCSharp\LearnToCSharp\obj\Debug\netcoreapp3.1\LearnToCSharp.dll
+C:\Users\Cemil KAĞAN\source\repos\LearnToCSharp\LearnToCSharp\obj\Debug\netcoreapp3.1\LearnToCSharp.pdb
+C:\Users\Cemil KAĞAN\source\repos\LearnToCSharp\LearnToCSharp\obj\Debug\netcoreapp3.1\LearnToCSharp.genruntimeconfig.cache
